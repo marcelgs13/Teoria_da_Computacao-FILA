@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.ArrayList;
-
+//Alunos: Marcel Gustavo e Marcelo Augusto
 public class Main {
     public static void main(String[] args) {
         Queue queue = new Queue(); // Instanciação da fila
